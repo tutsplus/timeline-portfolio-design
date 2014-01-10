@@ -3,6 +3,8 @@
 In this tutorial I’ll show you how to create a simple yet beautiful three column based portfolio with a trending timeline element using Photoshop CS6.
 http://enva.to/1enLat1
 
+![image](http://cdn.tutsplus.com/webdesign/uploads/2014/01/timeline_portfolio.png)
+
 To complete this tutorial you will need the following (freely available) assets:
 
 *   [Raindrops photo](http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_5287d4367585d_1.JPG) from Unsplash
